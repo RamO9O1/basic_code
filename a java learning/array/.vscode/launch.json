@@ -1,0 +1,118 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CountElement",
+            "request": "launch",
+            "mainClass": "CountElement",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenArr",
+            "request": "launch",
+            "mainClass": "OddEvenArr",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min2Max2",
+            "request": "launch",
+            "mainClass": "Min2Max2",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumArr",
+            "request": "launch",
+            "mainClass": "MissingNumArr",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortArrayExample1",
+            "request": "launch",
+            "mainClass": "SortArrayExample1",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex",
+            "request": "launch",
+            "mainClass": "Ex",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxElMinEl",
+            "request": "launch",
+            "mainClass": "MaxElMinEl",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch OccurArr",
+            "request": "launch",
+            "mainClass": "OccurArr",
+            "projectName": "array_fc26de3c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevArr",
+            "request": "launch",
+            "mainClass": "RevArr",
+            "projectName": "array_fc26de3c"
+        }
+    ]
+}

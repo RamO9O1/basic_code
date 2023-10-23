@@ -1,0 +1,349 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RohitQuest",
+            "request": "launch",
+            "mainClass": "RohitQuest",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Matrix_D",
+            "request": "launch",
+            "mainClass": "Matrix_D",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Matrix2D",
+            "request": "launch",
+            "mainClass": "Matrix2D",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Byete",
+            "request": "launch",
+            "mainClass": "Byete",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teat023",
+            "request": "launch",
+            "mainClass": "Teat023",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondSeries",
+            "request": "launch",
+            "mainClass": "DiamondSeries",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch PyramidO1",
+            "request": "launch",
+            "mainClass": "PyramidO1",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncDecSeries",
+            "request": "launch",
+            "mainClass": "IncDecSeries",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrRes",
+            "request": "launch",
+            "mainClass": "StrRes",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintArm",
+            "request": "launch",
+            "mainClass": "PrintArm",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch AramstrongNum",
+            "request": "launch",
+            "mainClass": "AramstrongNum",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Num123",
+            "request": "launch",
+            "mainClass": "Num123",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch FreqChar",
+            "request": "launch",
+            "mainClass": "FreqChar",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch LarSmall",
+            "request": "launch",
+            "mainClass": "LarSmall",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShallowColne",
+            "request": "launch",
+            "mainClass": "ShallowColne",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch BigNum3",
+            "request": "launch",
+            "mainClass": "BigNum3",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fbig",
+            "request": "launch",
+            "mainClass": "Fbig",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch RangePrime",
+            "request": "launch",
+            "mainClass": "RangePrime",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaC",
+            "request": "launch",
+            "mainClass": "AreaC",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binary",
+            "request": "launch",
+            "mainClass": "Binary",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Boolean",
+            "request": "launch",
+            "mainClass": "Boolean",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch CImport",
+            "request": "launch",
+            "mainClass": "CImport",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckChar",
+            "request": "launch",
+            "mainClass": "CheckChar",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckVowel",
+            "request": "launch",
+            "mainClass": "CheckVowel",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Checkprime",
+            "request": "launch",
+            "mainClass": "Checkprime",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex",
+            "request": "launch",
+            "mainClass": "Ex",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exception",
+            "request": "launch",
+            "mainClass": "Exception",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exp",
+            "request": "launch",
+            "mainClass": "Exp",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fbs",
+            "request": "launch",
+            "mainClass": "Fbs",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Is",
+            "request": "launch",
+            "mainClass": "Is",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Primenum",
+            "request": "launch",
+            "mainClass": "Primenum",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ren",
+            "request": "launch",
+            "mainClass": "Ren",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Return",
+            "request": "launch",
+            "mainClass": "Return",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rtop",
+            "request": "launch",
+            "mainClass": "Rtop",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rtriangle",
+            "request": "launch",
+            "mainClass": "Rtriangle",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Series",
+            "request": "launch",
+            "mainClass": "Series",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Simpleinterest",
+            "request": "launch",
+            "mainClass": "Simpleinterest",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "a java learning_874e1432"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test02",
+            "request": "launch",
+            "mainClass": "Test02",
+            "projectName": "a java learning_874e1432"
+        }
+    ]
+}
